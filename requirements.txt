@@ -48,4 +48,3 @@ executing==2.0.1
 fastjsonschema==2.20.0
 Flask==3.0.3
 Flask-WTF==1.2.1
-fqdn==1.5.1
