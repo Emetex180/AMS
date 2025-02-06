@@ -46,7 +46,7 @@ django-timezone-field==4.2.3
 django-utils-six==2.0
 executing==2.0.1
 fastjsonschema==2.20.0
-Flask==3.1.0
+Flask==3.0.3
 Flask-WTF==1.2.2
 fqdn==1.5.1
 google-ai-generativelanguage==0.6.4
